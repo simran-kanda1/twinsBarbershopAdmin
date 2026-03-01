@@ -143,7 +143,7 @@ export function LeadsManager() {
     };
 
     return (
-        <div className="min-h-screen bg-zinc-950 text-zinc-100 p-8 font-sans selection:bg-zinc-500/30">
+        <div className="p-8">
             <div className="max-w-7xl mx-auto space-y-8">
 
                 {/* Header Section */}
